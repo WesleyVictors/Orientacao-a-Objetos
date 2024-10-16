@@ -1,0 +1,2 @@
+2. A programação orientada por objetos é o paradigma que melhor se enquadra no sistema de gerenciamento da biblioteca.
+Na Orientação por Objetos, cada cliente e cada livro serão os 'objetos' tendo atributos e métodos ligados a eles. Na relação entre classes e objetos, é possível  organizar o código de forma modular e reutilizável, cada cliente e cada livro, serão tratados de forma similar. Também será possível encapsular dados, apresentando apenas os que forem necessários tornando o sistema mais seguro e eficiente.
